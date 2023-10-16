@@ -6,7 +6,7 @@ Streamline expense management with our Billing System App: Create, edit, and tra
 
 frontend https://sales-vishalg197.vercel.app/
 
-backend 
+backend https://bmi-api-wfcz.onrender.com
 
 ## Frontend
 
@@ -51,7 +51,7 @@ HOW TO GO THROUGH THE PROJECT -
 
 This  website specializes in making the bill for your shop. The website provides the bill for the purchase.
 
-In this project, we used HTML, CSS, JavaScript, react, and chakra-ui, for the frontend and Express.js, node.js, and MongoDB for the backend With the self-learning efforts and the technology stack, that we have learned till Unit-6 in the Masai School.
+In this project, we used HTML, CSS, JavaScript, react, and chakra-ui, for the front end  With the self-learning efforts and the technology stack, that we have learned till Unit-6 in the Masai School.
 This is an Individual project built within 5 days. 
 -----
 # Technology Stack Used 🌟
@@ -61,15 +61,12 @@ This is an Individual project built within 5 days.
 * REACT
 * React-router-dom
 * Chakra-ui
-* node.js
-* express.js
-* MongoDB
-* mongoose
+* Json-server
 
 -----
 ## How to run the Project
-* clone the repo and install node_module using the `npm install` and then start the frontend using `npm run start` for the running backend in your system you can use the `npm run server`.
+* clone the repo and install node_module using the `npm install` and then start the frontend using `npm run start`.
 -----
 ## End Notes 📑
-In this project, we have tried to achieve a all functionality for the billing app  as much as possible. This entire journey of this construct week has given us experiences and we have learned lots of things by applying to the actual website and it gave us a lot of confidence. Most of the features are added and the website's functionality is achieved.
+In this project, we have tried to achieve all functionality for the billing app  as much as possible. This entire journey of this construct week has given us experiences and we have learned lots of things by applying to the actual website and it gave us a lot of confidence. Most of the features are added and the website's functionality is achieved.
 -----
