@@ -29,19 +29,23 @@ HOW TO GO THROUGH THE PROJECT -
 <img width="960" alt="image" src="https://github.com/vishalG197/Billing_app/assets/119415070/efa00971-6bea-4c58-92cd-993f9b6ba221">
 
 -----
+
 ## New Bill
 
 <img width="959" alt="image" src="https://github.com/vishalG197/Billing_app/assets/119415070/6334d723-a853-49bc-85d6-c5fb4ca52eeb">
 -----
+
 ## checkout page
 
 <img width="960" alt="image" src="https://github.com/vishalG197/Billing_app/assets/119415070/5a34ee3f-392c-4df5-93d5-e02cb59923c5">
 -----
+
 -----
 ## my Bills
 
 <img width="960" alt="image" src="https://github.com/vishalG197/Billing_app/assets/119415070/77b77ac0-d8f5-419a-a38c-4fc6c3885cdf">
 -----
+
 -----
 ## sales
 
