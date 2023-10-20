@@ -20,7 +20,7 @@ HOW TO GO THROUGH THE PROJECT -
 -----
 ## add items
 
-<img width="960" alt="image" src="https://github.com/vishalG197/Billing_app/assets/119415070/4e56c4cb-8f7e-465d-92c1-f705232631f1">
+<img width="960" alt="Screenshot 2023-10-16 090830" src="https://github.com/vishalG197/Billing_app/assets/119415070/94ee10db-c4c6-4c98-9e78-d315a232f6ce">
 
 -----
 
@@ -37,11 +37,12 @@ HOW TO GO THROUGH THE PROJECT -
 
 <img width="960" alt="image" src="https://github.com/vishalG197/Billing_app/assets/119415070/5a34ee3f-392c-4df5-93d5-e02cb59923c5">
 -----
+-----
 ## my Bills
 
 <img width="960" alt="image" src="https://github.com/vishalG197/Billing_app/assets/119415070/77b77ac0-d8f5-419a-a38c-4fc6c3885cdf">
 -----
-
+-----
 ## sales
 
 <img width="960" alt="image" src="https://github.com/vishalG197/Billing_app/assets/119415070/29f36d6a-07e3-4410-8d16-b5a90366d3e1">
