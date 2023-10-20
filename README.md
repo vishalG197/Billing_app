@@ -26,30 +26,37 @@ HOW TO GO THROUGH THE PROJECT -
 
 ## Item list
 
-<img width="960" alt="image" src="https://github.com/vishalG197/Billing_app/assets/119415070/efa00971-6bea-4c58-92cd-993f9b6ba221">
+<img width="960" alt="Screenshot 2023-10-16 090948" src="https://github.com/vishalG197/Billing_app/assets/119415070/a6e841d7-35fd-4e1a-b70c-86efde46331c">
+
 
 -----
 
 ## New Bill
 
-<img width="959" alt="image" src="https://github.com/vishalG197/Billing_app/assets/119415070/6334d723-a853-49bc-85d6-c5fb4ca52eeb">
+<img width="959" alt="Screenshot 2023-10-16 091212" src="https://github.com/vishalG197/Billing_app/assets/119415070/d98f9bb2-3cec-4b4c-8f2c-6875bfc865ed">
+
+
 -----
 
 ## checkout page
 
-<img width="960" alt="image" src="https://github.com/vishalG197/Billing_app/assets/119415070/5a34ee3f-392c-4df5-93d5-e02cb59923c5">
+<img width="960" alt="Screenshot 2023-10-16 091353" src="https://github.com/vishalG197/Billing_app/assets/119415070/e923dabe-0c61-498c-9674-546d72cb9aa7">
+
+
 -----
 
 -----
 ## my Bills
 
-<img width="960" alt="image" src="https://github.com/vishalG197/Billing_app/assets/119415070/77b77ac0-d8f5-419a-a38c-4fc6c3885cdf">
+<img width="960" alt="Screenshot 2023-10-16 091506" src="https://github.com/vishalG197/Billing_app/assets/119415070/7898f012-52fa-4e67-9343-075ddd9a15e7">
+
 -----
 
 -----
 ## sales
 
-<img width="960" alt="image" src="https://github.com/vishalG197/Billing_app/assets/119415070/29f36d6a-07e3-4410-8d16-b5a90366d3e1">
+<img width="960" alt="Screenshot 2023-10-16 091548" src="https://github.com/vishalG197/Billing_app/assets/119415070/7af15388-15f8-4ecb-9ee2-99ef01e76051">
+
 
 -----
 
